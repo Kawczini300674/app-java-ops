@@ -2,11 +2,11 @@ public class Main {
     public static void main(String[] args) {
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
         // to see how IntelliJ IDEA suggests fixing it.
-        System.out.printf("Hello and welcome!");
+        System.out.printf("1. Piotr" +
+                " 2. Anna" +
+                " 3. Jan" +
+                " 4. Leszek");
 
-        for (int i = 1; i <= 15; i++) {
 
-            System.out.println("i = " + i);
         }
     }
-}
